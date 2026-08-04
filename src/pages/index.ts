@@ -1,0 +1,12 @@
+export { LoginPage } from './LoginPage';
+export { DashboardPage } from './DashboardPage';
+export { AppointmentsPage } from './AppointmentsPage';
+export { PatientDetailPage } from './PatientDetailPage';
+export { GuideEditorPage } from './GuideEditorPage';
+export { PrintPreviewPage } from './PrintPreviewPage';
+export { PatientsPage } from './PatientsPage';
+export { CalendarPage } from './CalendarPage';
+export { GuidesPage } from './GuidesPage';
+export { PrintHistoryPage } from './PrintHistoryPage';
+export { SettingsPage } from './SettingsPage';
+export { TodayPatientsPage } from './TodayPatientsPage';
